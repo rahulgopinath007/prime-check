@@ -1,2 +1,0 @@
-# prime-check
-java prime
